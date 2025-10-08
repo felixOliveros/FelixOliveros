@@ -1,36 +1,59 @@
 # ¡Hola! Soy Félix Oliveros 👋
 
-### Desarrollador de Software | Apasionado por la tecnología y el aprendizaje continuo
+### Desarrollador de Software |Ingeniero Cloud |Arquitecto Cloud| | Apasionado por la tecnología y el aprendizaje continuo
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
 <p>
-  Soy un desarrollador de software Junior [menciona aquí las tecnologías principales de tu LinkedIn, ej: .NET, React, SQL Server]. Me especializo en el desarrollo de aplicaciones web robustas y escalables, y siempre estoy en busca de nuevos desafíos que me permitan crecer profesionalmente. Me considero una persona proactiva, con gran capacidad para resolver problemas y trabajar en equipo.
+  Desarrollador en formación. Me especializo en infraestructura, tanto local como en la nube, Networkwing,   y siempre estoy en busca de nuevos desafíos que me permitan crecer profesionalmente. Me considero una persona proactiva, con gran capacidad para resolver problemas y trabajar en equipo.
 </p>
 
 ---
 
 ### 🚀 Mis Habilidades
 
+**Lenguajes:** JavaScript, SQL, HTML, Wordpress
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,azure,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wordpress" />
   </a>
 </p>
 
-**Lenguajes:** C#, JavaScript, SQL
-**Frameworks y Librerías:** .NET Core, React, Entity Framework
-**Bases de Datos:** SQL Server, MySQL
-**Cloud y Herramientas:** Microsoft Azure, Docker, Git, Azure DevOps
+**Cloud:** Google, AWS, Microsoft Azure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,azure" />
+  </a>
+</p>
+
+**Herramientas:** Linux, Docker, Git, Azure DevOps, Grafana, Prometheus, Bash...
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,redhat,debian,windows,powershell,apple,grafana,prometheus,gmail,bitbucket,bash" />
+  </a>
+</p>
+
+**Bases de Datos:** SQL Server, MySQL, MongoDB
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  </a>
+</p>
+
+
 
 ---
 
 ### 🌱 Actualmente Estoy Aprendiendo
 
-* [Menciona alguna tecnología o habilidad que estés aprendiendo, ej: Blazor, Python, etc.]
-* Mejorando mis conocimientos en arquitectura de microservicios.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,js,html,css,py" />
+  </a>
+</p>
+* Mejorando mis conocimientos en Arquitectura en la nube, DEVOPS, y Administración de Proyectos.
 
 ---
 
@@ -47,7 +70,7 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=felixOliveros&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixOliveros&layout=compact&theme=radical" alt="Lenguajes más usados">
 </p>
