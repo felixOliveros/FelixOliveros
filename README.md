@@ -35,7 +35,7 @@
   </a>
 </p>
 
-**Bases de Datos:** SQL Server, MySQL, MongoDB
+**Bases de Datos:** SQL Server, MySQL, MongoDB (Basico)
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
